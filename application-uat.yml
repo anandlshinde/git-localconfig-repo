@@ -1,6 +1,4 @@
-spring:
-  application:
-    name: STOCK-SERVICE-CONFIG-SERVER-uat
+
     
 eureka:
   instance:
