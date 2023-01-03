@@ -1,7 +1,4 @@
-spring:
-  application:
-    name: STOCK-SERVICE-CONFIG-SERVER-dev
-    
+
 eureka:
   instance:
     #hostname: localhost
